@@ -137,3 +137,5 @@ alias yt="mpsyt"
 
 alias hfuns="tldr -r ~/.bashconfig/doc/functions.md"
 alias hdocker="tldr -r ~/.bashconfig/doc/docker.md"
+
+alias git=hub
